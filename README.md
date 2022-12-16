@@ -1,4 +1,4 @@
-# shop
+# My Store
 
 <img src="https://user-images.githubusercontent.com/99933941/186920835-def31573-452a-4e0f-b166-d59c4a1aacef.jpg" alt="db18cfc1-7fdb-440d-974d-69b7cd05072f" width="250"/>
 <img src="https://user-images.githubusercontent.com/99933941/186920841-50940a17-2eff-4250-872d-d442aedc7115.jpg" alt="9e46f92f-5478-411f-b4ea-36d379714e40" width="250"/>
